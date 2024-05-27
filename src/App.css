@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.step {
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.step > h3 {
+  font-size: 25px;
+  font-weight: normal;
+}
+
+.colors-section {
+  margin-top: 4rem;
+  display: flex;
+  align-items: center;
+}

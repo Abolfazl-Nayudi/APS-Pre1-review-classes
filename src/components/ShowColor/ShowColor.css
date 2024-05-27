@@ -1,0 +1,15 @@
+.show {
+  width: 90%;
+  margin: 3rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.randomColor {
+  width: 400px;
+  height: 200px;
+  box-shadow: 0 0 20px 5px rgba(125, 114, 114, 0.683);
+  border-radius: 10px;
+}
