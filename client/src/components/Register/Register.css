@@ -1,0 +1,12 @@
+.parent-register-form {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.parent-register-form > div {
+  width: 50%;
+}
